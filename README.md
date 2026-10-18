@@ -5,4 +5,4 @@ Hi, I'm Tanmay.
 > I do coding to cure boredom :)
 > Here are my socials: [LinkedIn](https://www.linkedin.com/in/tanmaysarfare) or [Instagram](https://www.instagram.com/tanmay_4115/). I dont use either of them, those just act as a professional reference for me. 
 
- hyvää payivää:
+hyvää payivää:
