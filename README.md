@@ -1,6 +1,6 @@
 
 - 👋 I'm Tanmay Sarfare, a US CPA candidate who enjoys finding the story (and the errors) hidden in the numbers.
-- 💼 I'm an Accountancy Intern at the [Marine Biological Laboratory](https://www.mbl.edu/), where I reconcile grant revenue in NetSuite and Excel and recently resolved a $957K revenue variance across 1,500+ journal lines.
+- 💼 Currently, I'm an Accountancy Intern at the [Marine Biological Laboratory](https://www.mbl.edu/), 
 - 🎓 I earned my MS in Finance at [Stevens Institute of Technology](https://www.stevens.edu/) (4.0 GPA), where I was a TA for Intro to Python for Finance and caught a $20K misclassified expense with SQL as a research analyst for the student-managed investment fund.
 - 🛠️ I work with Excel, NetSuite, SAP FI, QuickBooks, Python, SQL, Power BI and Tableau.
 - ✨ For fun, I build data projects:
