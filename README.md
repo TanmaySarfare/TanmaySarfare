@@ -1,10 +1,5 @@
-
-- 👋 I'm Tanmay Sarfare, a US CPA candidate who enjoys finding the story (and the errors) hidden in the numbers.
-- 💼 Currently, I'm an Accountancy Intern at the [Marine Biological Laboratory](https://www.mbl.edu/), 
-- 🎓 I earned my MS in Finance at [Stevens Institute of Technology](https://www.stevens.edu/) (4.0 GPA), where I was a TA for Intro to Python for Finance and caught a $20K misclassified expense with SQL as a research analyst for the student-managed investment fund.
-- 🛠️ I work with Excel, NetSuite, SAP FI, QuickBooks, Python, SQL, Power BI and Tableau.
-- ✨ For fun, I build data projects:
-  - [Pokémon Constellations](https://tanmaysarfare.github.io/pokemon-constellations/): all 1,025 Pokémon as stars, grouped by clustering their stats in Python, with a monthly pipeline that pulls live data from PokéAPI and Smogon.
-  - [Pokémon Synth](https://tanmaysarfare.github.io/pokemon-synth/): turns any Pokémon's stats into its own tune.
-  - [Dex Detective](https://tanmaysarfare.github.io/dex-detective/): three Pokémon guessing games, including a daily puzzle.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tanmaysarfare) or [Instagram](https://www.instagram.com/tanmay_4115/).
+Hi, I'm Tanmay.
+- Currently I am working as an Accountancy Intern at the Marine Biological Laboratory on Cape Cod.
+- Most recently, I have done a MS in Finance from Stevens Institute of Technology, NJ.
+- I did this as for fun on weekends; [Pokémon Constellations](https://tanmaysarfare.github.io/pokemon-constellations/), [Pokémon Synth](https://tanmaysarfare.github.io/pokemon-synth/), [Dex Detective](https://tanmaysarfare.github.io/dex-detective/) [I am not a professional coding person, I do coding to cure boredom]
+- Here are my socials:  [LinkedIn](https://www.linkedin.com/in/tanmaysarfare) though I dont use them, those just act as a professional reference. I you want to reach out to me, contact via email (tanmaysarfare4@gmai.com)
